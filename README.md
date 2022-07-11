@@ -1,15 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Smriti
+- University Roll No.: 1900290310164
+- Branch: ECE
+- Section: C
+- Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
-
+- LeetCode: [SMRITI](https://leetcode.com/smriti2210/)
+- HackerRank: [SMRITI](https://www.hackerrank.com/smriti_srivasta3)
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
     | Weeks | Days | Days | Days | Days | Days | Days | Days |
