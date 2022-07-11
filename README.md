@@ -4,7 +4,7 @@
 - University Roll No.: 1900290310164
 - Branch: ECE
 - Section: C
-- Preferred Programming Language: Python
+- Preferred Programming Language: Python/C++
 
 ## Coding Profiles
 - LeetCode: [SMRITI](https://leetcode.com/smriti2210/)
